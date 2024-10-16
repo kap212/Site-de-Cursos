@@ -1,0 +1,46 @@
+ul,
+li {
+   list-style: circle;
+}
+.info-area {
+   background-color: #f9f9f9;
+   padding: 20px;
+   height: 100%;
+   color: #333;
+   line-height: 1.6;
+}
+
+.info-area h2,
+.info-area h3 {
+   color: #d94d56;
+}
+
+.info-area ul {
+   list-style-type: disc;
+   margin-left: 20px;
+}
+
+.info-area p,
+.info-area ul {
+   margin-bottom: 15px;
+}
+
+.form-area {
+   padding: 20px;
+   background-color: #ffffff;
+   border: 1px solid #ddd;
+   border-radius: 5px;
+}
+.small-text {
+   font-size: 14px;
+   letter-spacing: 2px;
+   margin-bottom: 10px;
+   font-weight: bold;
+}
+.slide-img {
+   height: 400px;
+   border-radius: 5px;
+   width: 100%;
+   object-fit: cover;
+   margin-bottom: 20px;
+}
